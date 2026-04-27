@@ -3,7 +3,6 @@
 ## Folder Structure
 - Literature_Review
 - Quantitative_Data
-- Quantitative_Analysis
 - Qualitative_Data
 - Drafts_Reports
 - Media
